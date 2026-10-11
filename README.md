@@ -1,2 +1,3 @@
 # practica-github
-Repositorio de práctica con ramas main y dev
+Practica 1 Electiva 2
+Estudiante: Luis Emilio
